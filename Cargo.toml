@@ -1,0 +1,7 @@
+[package]
+name = "progression"
+version = "0.1.0"
+authors = ["Ernesto Menéndez <pyalec@gmail.com>"]
+
+[dependencies]
+termion = "1.1.4"
